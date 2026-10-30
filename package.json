@@ -1,0 +1,12 @@
+{
+  "name": "phrase-rush",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A host-led live phrase guessing game",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
